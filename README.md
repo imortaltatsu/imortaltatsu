@@ -35,22 +35,11 @@ I am a **Machine Learning Engineer** and **Blockchain Developer** passionate abo
 
 ### 🛠️ Technical Arsenal
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Erlang-A90533?style=flat&logo=erlang&logoColor=white" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
-<img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" />
+**Languages** <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Erlang-A90533?style=flat&logo=erlang&logoColor=white" /> <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" />
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+**AI / ML** <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Arweave-000000?style=flat&logo=arweave&logoColor=white" />
-<img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+**Web3 & Tools** <img src="https://img.shields.io/badge/Arweave-000000?style=flat&logo=arweave&logoColor=white" /> <img src="https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 
 ---
 
@@ -80,3 +69,7 @@ I am a **Machine Learning Engineer** and **Blockchain Developer** passionate abo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imortaltatsu&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
+---
+<div align="center">
+  <i>"Any sufficiently advanced technology is indistinguishable from magic."</i>
+</div>
