@@ -69,7 +69,4 @@ I am a **Machine Learning Engineer** and **Blockchain Developer** passionate abo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imortaltatsu&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
----
-<div align="center">
-  <i>"Any sufficiently advanced technology is indistinguishable from magic."</i>
-</div>
+
